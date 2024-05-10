@@ -15,13 +15,4 @@ body {
     background-color: lightblue;
 }
 
-.homeLogo{
-    position: fixed;
-    top: 0;
-    left: 0; /* Opcional: ajusta a posição horizontal */
-    width: 100px; /* Ajuste o tamanho conforme necessário */
-    height: 100px; /* Ajuste o tamanho conforme necessário */
-    background-image: url('/assets/img/fotofarm.png');
-    background-size: contain; /* Garante que a imagem se ajuste ao tamanho do elemento */
-    z-index: 999; /* Opcional: define a ordem de empilhamento */
-}
+
